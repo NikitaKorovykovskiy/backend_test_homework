@@ -16,5 +16,4 @@ def test_program():
         assert False, (
             'Не удалось запустить `program.py`. '
             'Исправьте в нем ошибки:\n'
-            f'{e}'
-        )
+            f'{e}')
